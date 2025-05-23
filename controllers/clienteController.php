@@ -1,4 +1,4 @@
-
+  
 	function reservas_espacios(){          
 
 		$id = $_SESSION["cliente"];
